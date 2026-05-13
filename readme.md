@@ -104,4 +104,10 @@ Uses LLM-based logical reasoning for step-by-step solutions.
 
 Performs mathematical calculations using LangChain's math chain.
 
+
 ---
+
+## User Interface
+![UI Screenshot](image.png)
+---
+
